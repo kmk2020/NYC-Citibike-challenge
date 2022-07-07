@@ -1,4 +1,4 @@
-# NYC-Citibike-challenge
+# NYC-citibike-challenge
 ## Purpose
 This analysis utilizes New York City Citibike data from August 2019 in order to determine if a smillar project would be a good fit for Des Moines, Iowa . This analysis will be presented to the board of investors in Des MOines, Iowa so as to explain to them why the investiment is profitable or not. Visualizations for this analysis were broken down into the followwing Tableau worksheets;
 * Checkout Times for users
